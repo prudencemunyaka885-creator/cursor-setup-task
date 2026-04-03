@@ -18,7 +18,7 @@
 - The Cursor docs page opened in browser instead of the app - solved by launching Cursor directly from desktop
 ## Experts Selected
 
-We selected 10 experts based on:
+I selected 10 experts based on:
 
 - Proven experience in SEO / AI / SaaS
 - Active content sharing (LinkedIn, YouTube, blogs)
@@ -36,10 +36,10 @@ These experts consistently publish:
 
 
 research/
-├── sources.md # List of all experts
-├── linkedin-posts/ # Insights from LinkedIn content
-├── youtube-transcripts/ # Extracted video learnings
-└── other/ # Articles (HBR, blogs, reports)
+├─sources.md # List of all experts
+├─linkedin-posts/ # Insights from LinkedIn content
+├─youtube-transcripts/ # Extracted video learnings
+└─other/ # Articles (HBR, blogs, reports)
 
 
 ---
