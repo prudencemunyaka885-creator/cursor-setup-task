@@ -16,7 +16,6 @@
 ## Issues Encountered and How I Solved Them
 - No major issues encountered during installation
 - The Cursor docs page opened in browser instead of the app - solved by launching Cursor directly from desktop
-## Experts Selected
 
 # Research Project-- AI-Powered SEO Content Production
 
